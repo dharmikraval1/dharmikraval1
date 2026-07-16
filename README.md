@@ -134,9 +134,12 @@ class DharmikRaval:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharmikraval1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmikraval1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" height="175" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmikraval1&theme=tokyonight" width="95%" alt="Profile summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dharmikraval1&theme=tokyonight" height="180" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharmikraval1&theme=tokyonight" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -145,14 +148,6 @@ class DharmikRaval:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmikraval1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6F61" width="95%" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dharmikraval1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies"/>
 </div>
 
 ---
